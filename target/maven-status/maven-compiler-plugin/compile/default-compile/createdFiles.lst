@@ -1,0 +1,5 @@
+com\liaokuo\springmvc\dao\DeptMapper.class
+com\liaokuo\springmvc\pojo\Dept.class
+com\liaokuo\springmvc\controller\DeptController.class
+com\liaokuo\springmvc\service\DeptService.class
+com\liaokuo\springmvc\service\impl\DeptServiceImpl.class
