@@ -1,5 +1,6 @@
 package com.liaokuo.springmvc.controller;
 
+import com.liaokuo.springmvc.pojo.Dept;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 
