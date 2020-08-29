@@ -11,7 +11,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 public class GitTest {
     @RequestMapping
     public String test(){
-        Dept dept = new Dept();
         return  null;
     }
 }
